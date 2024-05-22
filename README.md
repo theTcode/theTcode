@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Tarun Daderwal
 
 - 🎓 Pursuing my **B.Tech** in **Information Technology** at **Guru Tegh Bahadur Institute of Technology, New Delhi**
-- 
 - 💻 **Skills:**
 - **Languages:** Java, C++, JavaScript
 - **Web Development:** HTML, CSS, Bootstrap, jQuery, React, Node.js
