@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Tarun Daderwal
 
-- 🎓 Pursuing my **B.Tech** in **Information Technology** at **Guru Tegh Bahadur Institute of Technology, New Delhi**
+- **Company: Newgen Software Technologies Ltd.**
+- **Working as: Software Engineer**
+- 🎓 I have done my **B.Tech** in **Information Technology** from **Guru Tegh Bahadur Institute of Technology, New Delhi**
 - 💻 **Skills:**
-- **Languages:** Java, C++, JavaScript
+- **Languages:** Java, C#, JavaScript
 - **Web Development:** HTML, CSS, Bootstrap, jQuery, React, Node.js
 - **Tools:** Git, Eclipse, Visual Studio Code
 - **Databases:** MySQL, MongoDB
